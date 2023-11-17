@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BNagarajNitin
 - 👀 I’m a Frontend Developer well versed in HTML,CSS,Bootstrap,Material Design,Javascript,Angular, Angular Material,React.js,
-- 🌱 I’m currently working as Frontend Developer in Pentachrome Technologies pvt ltd
+- 🌱 I’m currently working as Frontend Developer in PARC Research Labs Technologies pvt ltd
 - 💞️ I’m looking to collaborate on Projects on Angular and React.js
 - 📫 You can reach me @bnagarajnitin@gmail.com/9611042256
 
